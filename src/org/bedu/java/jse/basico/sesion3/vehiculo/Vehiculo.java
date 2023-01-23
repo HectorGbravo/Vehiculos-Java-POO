@@ -1,7 +1,8 @@
 package org.bedu.java.jse.basico.sesion3.vehiculo;
 
 public class Vehiculo {
-    //private ClaseVehiculo claseVehiculo = new ClaseVehiculo();
+
+
     private Llantas [] llantas = new Llantas[4];
     private Combustible combustible = new Combustible();
 
@@ -21,9 +22,14 @@ public class Vehiculo {
     }
 
     public void avanza() {
+        int kmRecorridos = 0;
+        Lector lector = new Lector();
         if (combustible.getLitrosActuales() >0) {
-            for (Llantas llanta : llantas) {
+            for (int contador = 1; contador <=4; contador++) {
+                Llantas llanta = new Llantas();
                 llanta.rueda();
+                kmrecorridos += 1
+                lector.muestraMensaje("Avanzando "+ kmRecorridos);
             }
             combustible.usa();
         } else {

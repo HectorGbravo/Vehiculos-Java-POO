@@ -8,8 +8,9 @@ public class Combustible {
         return litrosMaximos;
     }
 
-    public void setLitrosMaximos(short litrosMaximos) {
+    public Combustible setLitrosMaximos(short litrosMaximos) {
         this.litrosMaximos = litrosMaximos;
+        return null;
     }
 
     public short getLitrosActuales() {
@@ -18,6 +19,7 @@ public class Combustible {
     public void setLitrosActuales(short litrosActuales) {
         this.litrosActuales = litrosActuales;
     }
+
     public void usa() {
         litrosActuales--;
         System.out.println("Quedan "+litrosActuales+" litros.");
