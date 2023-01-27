@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2262ed60-6ca3-4876-9763-8ff94f4b3252" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vehiculo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/ClaseVehiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/Combustible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/Lector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/Llantas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/TipoVehiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/Vehiculo.java" afterDir="false" />
+    <list default="true" id="2262ed60-6ca3-4876-9763-8ff94f4b3252" name="Changes" comment="Se trabajo ejercicio POO de vehiculo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/TipoVehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/TipoVehiculo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/mexmo/IdeaProjects/Vehiculo"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,6 +48,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674195742760</updated>
     </task>
+    <task id="LOCAL-00001" summary="Se trabajo ejercicio POO de vehiculo">
+      <created>1674355510063</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674355510063</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,6 +68,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se trabajo ejercicio POO de vehiculo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se trabajo ejercicio POO de vehiculo" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Vehiculo$TipoVehiculo.ic" NAME="TipoVehiculo Coverage Results" MODIFIED="1674352749849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
