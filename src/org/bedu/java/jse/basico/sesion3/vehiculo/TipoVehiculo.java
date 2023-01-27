@@ -6,6 +6,7 @@ public class TipoVehiculo {
         lector.muestraMensaje("Por favor indique si el vehículo es sedan o SUV: ");
         String entrada = lector.leerEntrada();
         String tipoVehiculo = entrada.toLowerCase();
+<<<<<<< HEAD
         lector.muestraMensaje(entrada+" "+ tipoVehiculo);
         Llantas llantas = new Llantas();
         Combustible combustible = new Combustible();
@@ -54,7 +55,19 @@ public class TipoVehiculo {
                 }
             }
         }
+=======
+        CreaVehiculo creaVehiculo = new CreaVehiculo();
+        creaVehiculo.setClaseVehiculo(tipoVehiculo);
+        String asignaDatosVehiculo = creaVehiculo.getClaseVehiculo();
+        creaVehiculo.asignaVehiculo(asignaDatosVehiculo);
+
+
+
+>>>>>>> 13bf9295498f6f7ff8ead1f6aa9cbf24afdc551b
 
     }
+
 }
+
+
 

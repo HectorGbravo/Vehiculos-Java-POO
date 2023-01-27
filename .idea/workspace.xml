@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="2262ed60-6ca3-4876-9763-8ff94f4b3252" name="Changes" comment="Se trabajo ejercicio POO de vehiculo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/TipoVehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/TipoVehiculo.java" afterDir="false" />
+=======
+    <list default="true" id="2262ed60-6ca3-4876-9763-8ff94f4b3252" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/CreaVehiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/Combustible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/Combustible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/TipoVehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/TipoVehiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/Vehiculo.java" afterDir="false" />
+>>>>>>> 13bf9295498f6f7ff8ead1f6aa9cbf24afdc551b
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +45,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "last_opened_file_path": "C:/Users/mexmo/IdeaProjects/Vehiculo"
+=======
+    "last_opened_file_path": "C:/Users/mexmo/IdeaProjects/Vehiculos-Java-POO"
+>>>>>>> 13bf9295498f6f7ff8ead1f6aa9cbf24afdc551b
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
