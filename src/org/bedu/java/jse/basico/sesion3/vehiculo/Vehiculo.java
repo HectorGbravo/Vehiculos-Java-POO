@@ -28,7 +28,7 @@ public class Vehiculo {
             for (int contador = 1; contador <=4; contador++) {
                 Llantas llanta = new Llantas();
                 llanta.rueda();
-                kmrecorridos += 1
+                kmRecorridos += 1;
                 lector.muestraMensaje("Avanzando "+ kmRecorridos);
             }
             combustible.usa();

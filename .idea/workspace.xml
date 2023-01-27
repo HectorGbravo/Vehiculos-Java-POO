@@ -4,71 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="2262ed60-6ca3-4876-9763-8ff94f4b3252" name="Changes" comment="Se trabajo ejercicio POO de vehiculo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/TipoVehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/TipoVehiculo.java" afterDir="false" />
-=======
-    <list default="true" id="2262ed60-6ca3-4876-9763-8ff94f4b3252" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/CreaVehiculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/Combustible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/Combustible.java" afterDir="false" />
+    <list default="true" id="9d2268be-85cb-4728-a35f-bc79d559454e" name="Changes" comment="Se trabajo ejercicio POO de vehiculo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/TipoVehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/TipoVehiculo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/bedu/java/jse/basico/sesion3/vehiculo/Vehiculo.java" afterDir="false" />
->>>>>>> 13bf9295498f6f7ff8ead1f6aa9cbf24afdc551b
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2KZx7GqvpXfTmEKY5GvNr7u8DSw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-<<<<<<< HEAD
-    "last_opened_file_path": "C:/Users/mexmo/IdeaProjects/Vehiculo"
-=======
-    "last_opened_file_path": "C:/Users/mexmo/IdeaProjects/Vehiculos-Java-POO"
->>>>>>> 13bf9295498f6f7ff8ead1f6aa9cbf24afdc551b
-  }
-}]]></component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="2262ed60-6ca3-4876-9763-8ff94f4b3252" name="Changes" comment="" />
-      <created>1674195742760</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1674195742760</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Se trabajo ejercicio POO de vehiculo">
-      <created>1674355510063</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1674355510063</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,10 +28,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Se trabajo ejercicio POO de vehiculo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se trabajo ejercicio POO de vehiculo" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Vehiculo$TipoVehiculo.ic" NAME="TipoVehiculo Coverage Results" MODIFIED="1674352749849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
